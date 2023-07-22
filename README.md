@@ -1,4 +1,4 @@
-# Game Theory FL
+# Local-FedGT
 
 Installation of Tensorflow GPU on Windows WSL - https://www.tensorflow.org/install/pip#windows-wsl2_1
 
